@@ -1,0 +1,68 @@
+{
+    "dmOptions": {
+        "cults": "Culti & Benefici Demonico",
+        "traps": "Trappole & Pericoli",
+        "adventures": "Avventure",
+        "objects": "Oggetti",
+        "dmOptions": "Sturnmenti del DM",
+        "encGen": "Generatore di Incontri",
+        "crCalc": "Calcolatrice di CR",
+        "lootGen": "Generatore di Bottino"
+    },
+    "home": {
+        "home": "Inizio",
+        "welcome": "Benvenuto in 5eTools!",
+        "intro": "",
+        "intro2": ""
+    },
+    "locale": "Linguaggio",
+    "misc": {
+        "developers": "",
+        "magicItems": "",
+        "currentlyHome": "",
+        "monsters": ""
+    },
+    "mode": {
+        "day": "",
+        "night": ""
+    },
+    "players": {
+        "lifegen": "",
+        "races": "",
+        "backgrounds": "",
+        "invocations": "",
+        "players": "",
+        "classes": "",
+        "names": "",
+        "feats": ""
+    },
+    "references": {
+        "rewards": "",
+        "items": "",
+        "deities": "",
+        "psionics": "",
+        "references": "",
+        "bestiary": "",
+        "conditions": "",
+        "spells": ""
+    },
+    "rules": {
+        "quickReference": "",
+        "DMG": "",
+        "variantRules": "",
+        "PHB": "",
+        "coreBooks": "",
+        "MM": "",
+        "rules": ""
+    },
+    "statgen": {
+        "statgen": ""
+    },
+    "utils": {
+        "content": "",
+        "demo": "",
+        "roll20Help": "",
+        "statBlock": "",
+        "utils": ""
+    }
+}

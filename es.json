@@ -1,0 +1,68 @@
+{
+    "dmOptions": {
+        "cults": "",
+        "traps": "Trampas",
+        "adventures": "Aventuras",
+        "objects": "Equipo de Asedio",
+        "dmOptions": "Herramientas del DM",
+        "encGen": "Generador de Encuentros",
+        "crCalc": "",
+        "lootGen": "Generador de Botín"
+    },
+    "home": {
+        "home": "Inicio",
+        "welcome": "Bienvenido a 5eTools!",
+        "intro": "5eTools es un conjunto de herramientas Web para jugadores y DMs de D&D 5e. Puedes descargar el proyecto completo desde",
+        "intro2": "Para ejecutar una copia local (sin conexión a internet), simplemente descarga el proyecto, extrae todo el contenido en una carpeta y abre los ficheros html en un navegador. Puedes hospedar una copia de la pagina en tu propio servidor, o contribuir al proyecto via"
+    },
+    "locale": "Idioma",
+    "misc": {
+        "developers": "Pobres Desarrolladores",
+        "magicItems": "Objetos Mágicos",
+        "currentlyHome": "Actualmente el hogar de...",
+        "monsters": "Monstruos"
+    },
+    "mode": {
+        "day": "Modo Día",
+        "night": "Modo Noche"
+    },
+    "players": {
+        "lifegen": "Esta es tu vida",
+        "races": "Razas",
+        "backgrounds": "Trasfondos",
+        "invocations": "Invocaciones",
+        "players": "Opciones de jugador",
+        "classes": "Clases",
+        "names": "Nombres",
+        "feats": "Dotes"
+    },
+    "references": {
+        "rewards": "Otras Recompensas",
+        "items": "Equipo",
+        "deities": "Dioses",
+        "psionics": "Psionicos",
+        "references": "Referencias",
+        "bestiary": "Bestiario",
+        "conditions": "Estados",
+        "spells": "Conjuros"
+    },
+    "rules": {
+        "quickReference": "Referencia Rápida",
+        "DMG": "Guía del Dungeon Master",
+        "variantRules": "Reglas Opcionales",
+        "PHB": "Manual del Jugador",
+        "coreBooks": "Libros Principales",
+        "MM": "Manual de Monstruos",
+        "rules": "Reglas"
+    },
+    "statgen": {
+        "statgen": "Generador de Atributos"
+    },
+    "utils": {
+        "content": "Contenido en Lista Negra",
+        "demo": "Demo de Renderizado",
+        "statBlock": "Perfiles a JSON",
+        "roll20Help": "Ayuda para el Script de Roll20",
+        "utils": "Utilidades"
+    }
+}
