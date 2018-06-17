@@ -1,0 +1,68 @@
+{
+    "dmOptions": {
+        "cults": "",
+        "traps": "陷阱与环境危害",
+        "adventures": "冒险",
+        "objects": "",
+        "dmOptions": "DM专用",
+        "encGen": "",
+        "crCalc": "难度计算机",
+        "lootGen": "生成宝藏"
+    },
+    "home": {
+        "home": "首页",
+        "welcome": "欢迎使用5eTools!",
+        "intro": "",
+        "intro2": ""
+    },
+    "locale": "语言",
+    "misc": {
+        "developers": "可怜的开发员们",
+        "magicItems": "魔法物品",
+        "currentlyHome": "现在包括...",
+        "monsters": "怪物"
+    },
+    "mode": {
+        "day": "白天模式",
+        "night": "黑夜模式"
+    },
+    "players": {
+        "lifegen": "您的人生故事",
+        "races": "",
+        "backgrounds": "背景",
+        "invocations": "魔能祈唤",
+        "players": "",
+        "classes": "职业",
+        "names": "名字发生器",
+        "feats": "专长"
+    },
+    "references": {
+        "rewards": "",
+        "items": "",
+        "deities": "",
+        "psionics": "",
+        "references": "",
+        "bestiary": "",
+        "conditions": "",
+        "spells": ""
+    },
+    "rules": {
+        "quickReference": "",
+        "DMG": "",
+        "variantRules": "",
+        "PHB": "",
+        "coreBooks": "",
+        "MM": "",
+        "rules": ""
+    },
+    "statgen": {
+        "statgen": ""
+    },
+    "utils": {
+        "content": "",
+        "demo": "",
+        "roll20Help": "",
+        "statBlock": "",
+        "utils": ""
+    }
+}

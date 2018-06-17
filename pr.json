@@ -1,0 +1,68 @@
+{
+    "dmOptions": {
+        "cults": "",
+        "traps": "",
+        "adventures": "Tales and Voyages",
+        "objects": "",
+        "dmOptions": "Captain's Tools",
+        "encGen": "",
+        "crCalc": "",
+        "lootGen": "Booty Generator"
+    },
+    "home": {
+        "home": "Top Deck",
+        "welcome": "Aye there, Captain!",
+        "intro": "5eTools be a fine fleet for cabin boys and captains alike! Ye can hoard yer own copy by downloading from",
+        "intro2": "Ter run yer own copy, download the project, extract it all on yer own vessel, and open 'er up in a browser. Ya free to host yer own fleet, or contribute to the project at"
+    },
+    "locale": "Tongues",
+    "misc": {
+        "developers": "Poor Privateers",
+        "magicItems": "Buried Treasure",
+        "currentlyHome": "We be currently sailing with...",
+        "monsters": "Beasties"
+    },
+    "mode": {
+        "day": "Clear Skies",
+        "night": "Stormy Skies"
+    },
+    "players": {
+        "lifegen": "What's yer story",
+        "races": "What ye look like",
+        "backgrounds": "Where yer from",
+        "invocations": "",
+        "players": "Sailor Options",
+        "classes": "What ye can do",
+        "names": "",
+        "feats": ""
+    },
+    "references": {
+        "rewards": "Other Booty",
+        "items": "Treasure",
+        "deities": "",
+        "psionics": "",
+        "references": "Maps and Charts",
+        "bestiary": "The Beasty Book",
+        "conditions": "",
+        "spells": ""
+    },
+    "rules": {
+        "quickReference": "",
+        "DMG": "Captain's Charter",
+        "variantRules": "The Pirate's Guidelines",
+        "PHB": "Sailor's Handbook",
+        "coreBooks": "",
+        "MM": "Davy Jones' Beasty Book",
+        "rules": "The Pirate's Code"
+    },
+    "statgen": {
+        "statgen": ""
+    },
+    "utils": {
+        "content": "",
+        "demo": "",
+        "roll20Help": "",
+        "statBlock": "",
+        "utils": ""
+    }
+}
